@@ -1,0 +1,4 @@
+repository "cube survival@hickey317@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
